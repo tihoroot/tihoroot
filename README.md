@@ -1,12 +1,4 @@
-Здраво/Hello 👋
+From a mountain village where epic poems taught me about legacy. Fled to the desert with books and code. Now building for birds, flowers, and future people.
+10,000+ hours in enterprise projects taught me: complexity is disrespect. Simple solutions are the gift.
 
-- 👀 I’m interested in Love and Engineering
-- 🌱 I’m currently learning .NET
-- 💞️ I’m looking to collaborate on Angular, Kotlin, Swift
-- 📫 How to reach me?
-- I am a contemporary of Miroslav Popovic
-
-<!---
-tihoroot/tihoroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently: Making software that thinks about becoming, not just doing.
